@@ -1,0 +1,2 @@
+export const titleText:string = `Write a simple script to generate a set of n-grams from a string of text. N-grams are a contiguous sequence of n words from a string of text, and have many applications from full-text search indexes to machine learning.
+  `
