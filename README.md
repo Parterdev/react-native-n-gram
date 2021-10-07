@@ -15,7 +15,7 @@ This project is a practical code challenge that includes:
 In the project directory, you can run special commands like this:
 
 To install dependencies 
-### `$ yarn install` / `$ npm install`
+#### `$ yarn install` / `$ npm install`
 
 
 ## To start the development server and run app on simulator or device
