@@ -9,7 +9,6 @@ This project is a practical code challenge that includes:
  - [react-native-testing-library](https://github.com/callstack/react-native-testing-library) - (to make unit test over components and elements)
  - I used things like custom hooks, components, etc. 
 
-<br>
 
 ## Available Scripts
 
