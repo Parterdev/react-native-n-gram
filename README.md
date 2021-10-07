@@ -21,14 +21,14 @@ To install dependencies
 
 ## To start the development server and run app on simulator or device
 
-### `$ npx react-native run-android`
+#### `$ npx react-native run-android`
 
-### `$ npx react-native run-ios`
+#### `$ npx react-native run-ios`
 
 
 ## To run tests (4 in total)
 
-### `$ yarn test`
+#### `$ yarn test`
 
 
 ### ⚠ Don't forget this: The result of the algorithm is rendered in a console.log().
