@@ -18,7 +18,6 @@ In the project directory, you can run special commands like this:
 To install dependencies 
 ### `$ yarn install` / `$ npm install`
 
-<br>
 
 ## To start the development server and run app on simulator or device
 
@@ -26,17 +25,14 @@ To install dependencies
 
 ### `$ npx react-native run-ios`
 
-<br>
 
 ## To run tests (4 in total)
 
 ### `$ yarn test`
 
-<br>
 
 ### ⚠ Don't forget this: The result of the algorithm is rendered in a console.log().
 
-<br>
 
 ## More about me
 
